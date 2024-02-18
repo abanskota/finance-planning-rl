@@ -1,0 +1,10 @@
+gym==0.26.2
+gym-notices==0.0.8
+gymnasium==0.29.1
+numpy==1.23.0
+pandas==2.1.1
+seaborn==0.13.2
+stable_baselines3==2.3.0a1
+tensorboard==2.14.1
+tensorboard-data-server==0.7.1
+torch==2.1.0
